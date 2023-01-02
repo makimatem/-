@@ -2,11 +2,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "𝐓𝐄𝐌𝐀𝐑𝐈✨" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "𝐓𝐄𝐌𝐀𝐑𝐈" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
-global.botname = "𝐓𝐄𝐌𝐀𝐑𝐈✨" 
+global.botname = "𝐓𝐄𝐌𝐀𝐑𝐈" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
 global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
 global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
